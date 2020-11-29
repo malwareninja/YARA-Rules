@@ -1,7 +1,7 @@
 rule Win32_LockBit_Ransomware : malicious
 {
 	meta:
-		description 	= "Yara Rule for LockBit Ransomware"
+		description 	= "YARA Rule for LockBit Ransomware"
 		author          = "Suraj Mundalik"
 		last_updated    = "2020-11-29"
 		sharing         = "TLP:WHITE"
