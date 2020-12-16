@@ -1,7 +1,7 @@
 rule Win32_Xorist_Ransomware : malicious
 {
 	meta:
-		description 	= "Yara Rule for Xorist Ransomware"
+		description 	= "YARA Rule for Xorist Ransomware"
 		author          = "Suraj Mundalik"
 		last_updated    = "2020-11-29"
 		sharing         = "TLP:WHITE"
